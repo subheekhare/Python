@@ -1,5 +1,4 @@
-![image.png](attachment:image.png)
-![image-2.png](attachment:image-2.png)
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/84b78a6d-fc5d-4fa1-a86c-cb8b495039d4" />
 
 Python : List Comprehensions - Exercises:
 ===================================================================
