@@ -12,33 +12,33 @@ Sample Output
 [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 
 ===================================================================
-3. Generate a list of characters from a string
+- 3. Generate a list of characters from a string
 Sample Output
 ['H', 'e', 'l', 'l', 'o', 'w', 'o', 'r', 'l', 'd']
 
 ===================================================================
-4. Create a list of lengths of words in a sentence
+- 4. Create a list of lengths of words in a sentence
 Sample Output
 This is a sample sentence.
 [4, 2, 1, 6, 9]
 
 ===================================================================
-5. Generate a list of tuples containing a number and its square
+- 5. Generate a list of tuples containing a number and its square
 Sample Output
 [(1, 1), (2, 4), (3, 9), (4, 16), (5, 25)]
 
 ===================================================================
-6. Create a list of lowercase letters
+-  6. Create a list of lowercase letters
 Sample Output
 ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 ===================================================================
-7. Generate a list of uppercase letters
+- 7. Generate a list of uppercase letters
 Sample Output
 ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 ===================================================================
-8. Create a list of even numbers squared and odd numbers cubed from 1 to 10
+- 8. Create a list of even numbers squared and odd numbers cubed from 1 to 10
 Sample Output
 [1, 4, 27, 16, 125, 36, 343, 64, 729, 100]
 
