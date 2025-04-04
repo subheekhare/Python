@@ -2,12 +2,12 @@
 
 Python : List Comprehensions - Exercises:
 ===================================================================
-1. Create a List of Squares of numbers from 1 to 10
+- 1. Create a List of Squares of numbers from 1 to 10
 Sample Output
 [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 
 ===================================================================
-2. Create a List of Even numbers from 1 to 20
+- 2. Create a List of Even numbers from 1 to 20
 Sample Output
 [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 
